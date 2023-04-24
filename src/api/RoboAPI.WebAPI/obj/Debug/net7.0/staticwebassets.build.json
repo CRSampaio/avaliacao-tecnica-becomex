@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F3pvsYhIrUvCcQBNcX0nCl2C009C64cU7bOH9nnHaGU=",
+  "Source": "RoboAPI.WebAPI",
+  "BasePath": "_content/RoboAPI.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
